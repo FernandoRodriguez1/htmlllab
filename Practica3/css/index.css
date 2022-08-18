@@ -1,10 +1,11 @@
 * {
     box-sizing: border-box;
+
 }
 
 body {
     font-family: verdana, geneva, tahoma, sans-serif;
-    color: crimson;
+    color:aliceblue;
 }
 
 div.container {
@@ -12,7 +13,7 @@ div.container {
 }
 
 header {
-    background-color: darkkhaki;
+    background-color:cornflowerblue;
     padding: 15px;
     text-align: center;
 }
@@ -21,6 +22,7 @@ nav {
     float: left;
     width: 20%;
     text-align: center;
+    color:cornflowerblue;
 }
 
 nav ul {
@@ -32,12 +34,12 @@ nav li {
 }
 
 nav li a {
-    background-color: #e5e5e5;
+    background-color:cornflowerblue;
     padding: 8px;
     margin-top: 7px;
     display: block;
     width: 100%;
-    color: black;
+    color:aliceblue;
     font-weight: 700;
 }
 
@@ -45,10 +47,11 @@ main {
     float: left;
     width: 60%;
     padding: 0 20px;
+    color: black;
 }
 
 .right {
-    background-color: #e5e5e5;
+    background-color:cornflowerblue;
     float: left;
     width: 20%;
     padding: 15px;
@@ -57,7 +60,7 @@ main {
 }
 
 footer {
-    background-color: #e5e5e5;
+    background-color:cornflowerblue;
     text-align: center;
     padding: 10px;
     margin-top: 7px;
