@@ -30,7 +30,13 @@ nav ul {
 }
 
 nav li {
-    list-style: none;
+    background-color:cornflowerblue;
+    padding: 8px;
+    margin-top: 7px;
+    display: block;
+    width: 100%;
+    color:aliceblue;
+    font-weight: 700;
 }
 
 nav li a {
